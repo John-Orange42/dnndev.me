@@ -29,7 +29,7 @@
             </div>
 
             <div class="collapse navbar-collapse userbar navbar-right">
-                <dnn:MENU ID="privateMenu" runat="server" MenuStyle="PrivateBootstrapMenu" NodeSelector="Secure Home Page, 0"></dnn:MENU>
+                <dnn:MENU ID="privateMenu" runat="server" MenuStyle="BootstrapMenu" NodeSelector="Secure Home Page, 0"></dnn:MENU>
             </div>
 
         </div>
@@ -43,7 +43,11 @@
                     <img class="img-responsive" src="/Portals/0/img/ARM-small.fw.png" alt="Affirmative Risk Management"></a>
                 <div class="pull-right">
                     <p class="navbar-text pull-right">Tel: 501-228-0900</p>
-                    <dnn:LOGIN ID="BS3Login" runat="server" LegacyMode="true" CssClass="btn btn-green navbar-btn pull-right" />
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <dnn:LOGIN ID="BS3Login" runat="server" LegacyMode="true" />
+                        </li>
+                    </ul>
                     <div class="divider pull-right">
                     </div>
                 </div>
