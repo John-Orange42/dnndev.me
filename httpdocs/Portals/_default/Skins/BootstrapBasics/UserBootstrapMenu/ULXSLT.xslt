@@ -35,9 +35,9 @@
                 <xsl:if test="node">
                   <xsl:attribute name="data-toggle">dropdown</xsl:attribute>
                 </xsl:if>
-				<xsl:if test="string-length(@icon) &gt; 0">
-					<img src="{@icon}" />
-				</xsl:if>
+                <xsl:if test="string-length(@icon) &gt; 0">
+                  <img src="{@icon}" />
+                </xsl:if>
                 <xsl:value-of select="@text" />
                 <xsl:if test="node">
                   <b class="caret"></b>
@@ -65,13 +65,13 @@
               <xsl:text>&#32;dropdown</xsl:text>
             </xsl:if>
           </xsl:attribute>
-		  
+
           <xsl:choose>
             <xsl:when test="@enabled = 1">
               <a href="{@url}">
-			  	<xsl:if test="string-length(@icon) &gt; 0">
-					<img src="{@icon}" />
-				</xsl:if>
+                <xsl:if test="string-length(@icon) &gt; 0">
+                  <img src="{@icon}" />
+                </xsl:if>
                 <xsl:value-of select="@text" />
               </a>
             </xsl:when>
@@ -82,8 +82,8 @@
 
         </li>
         <xsl:if test="node">
-			
-			
+
+
 
         </xsl:if>
 

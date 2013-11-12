@@ -39,7 +39,7 @@
                 </button>
             </div>
             <div class="collapse navbar-collapse userbar navbar-right">
-                <dnn:MENU ID="privateMenu" runat="server" MenuStyle="UserBootstrapMenu" NodeSelector="Secure Home Page, 0"></dnn:MENU>
+                <dnn:MENU ID="privateMenu" runat="server" MenuStyle="UserBootstrapMenu" NodeSelector="Client Private Menu, 0"></dnn:MENU>
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand" href="/home.aspx">
-                    <img class="img-responsive" src="/Portals/0/img/ARM-small.fw.png" alt="Affirmative Risk Management"></a>
+                    <img class="img-responsive" src="/Portals/0/images/ARM-small.fw.png" alt="Affirmative Risk Management"></a>
                 <div class="pull-right">
                     <p class="navbar-text pull-right">Tel: 501-228-0900</p>
                     <dnn:LOGIN ID="BS3Login" runat="server" LegacyMode="true" CssClass="btn btn-green navbar-btn pull-right" />
@@ -65,7 +65,7 @@
             </div>
             <% ' TODO - Style menu to match ARM HTML site %>
             <div class="navbar-collapse main-navbar collapse">
-                <dnn:MENU ID="MENU1" MenuStyle="BootstrapMenu" runat="server" NodeSelector="Home,0"></dnn:MENU>
+                <dnn:MENU ID="topMenu" MenuStyle="BootstrapMenu" runat="server" NodeSelector="*,0"></dnn:MENU>
             </div>
         </div>
     </div>
@@ -74,37 +74,28 @@
 
     <div class="container">
         <div class="row">
-
-            <div id="pageHeaderImage" runat="server" class="main-image col-lg-12">
-            </div>
-
+            <div id="pageHeaderImage" runat="server" class="main-image col-lg-12"></div>
         </div>
 
         <div class="row">
-            <div id="contentPane" runat="server" class="col-lg-12">
-            </div>
+            <div id="contentPane" runat="server" class="col-lg-12"></div>
         </div>
 
         <div class="row">
             <div id="main-body" class="col-md-6">
-                <div id="leftPane" runat="server">
-                </div>
+                <div id="leftPane" runat="server"></div>
             </div>
-            <div id="rightPane" runat="server" class="col-md-6">
-            </div>
+            <div id="rightPane" runat="server" class="col-md-6"></div>
         </div>
     </div>
 
     <div id="home-associations" class="light-grey-wide">
-
-        <div id="associationsPane" runat="server">
-        </div>
+        <div id="associationsPane" runat="server"></div>
     </div>
 
     <div class="container">
         <div id="meet-team" class="row">
-            <div id="meetTeamPane" runat="server" class="col-med-12">
-            </div>
+            <div id="meetTeamPane" runat="server" class="col-med-12"></div>
         </div>
     </div>
 </div>

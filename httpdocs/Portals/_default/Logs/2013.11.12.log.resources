@@ -1,0 +1,294 @@
+2013-11-12 05:38:33,322 [HPPavilionDV7][Thread:61][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,322 [HPPavilionDV7][Thread:59][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,510 [HPPavilionDV7][Thread:60][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,594 [HPPavilionDV7][Thread:62][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,594 [HPPavilionDV7][Thread:51][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,597 [HPPavilionDV7][Thread:53][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,610 [HPPavilionDV7][Thread:59][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,613 [HPPavilionDV7][Thread:62][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,618 [HPPavilionDV7][Thread:51][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,618 [HPPavilionDV7][Thread:61][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,630 [HPPavilionDV7][Thread:53][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,634 [HPPavilionDV7][Thread:51][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,638 [HPPavilionDV7][Thread:62][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,642 [HPPavilionDV7][Thread:59][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,648 [HPPavilionDV7][Thread:61][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,653 [HPPavilionDV7][Thread:53][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,657 [HPPavilionDV7][Thread:51][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,661 [HPPavilionDV7][Thread:54][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,665 [HPPavilionDV7][Thread:53][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,670 [HPPavilionDV7][Thread:59][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,691 [HPPavilionDV7][Thread:53][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,692 [HPPavilionDV7][Thread:60][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,692 [HPPavilionDV7][Thread:51][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,699 [HPPavilionDV7][Thread:54][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,704 [HPPavilionDV7][Thread:62][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:38:33,709 [HPPavilionDV7][Thread:59][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 05:58:04,191 [HPPavilionDV7][Thread:52][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveRootDirectoryAsTree(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:06,235 [HPPavilionDV7][Thread:52][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveRootDirectoryAsTree(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:06,260 [HPPavilionDV7][Thread:52][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveDirectory(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:06,900 [HPPavilionDV7][Thread:58][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveRootDirectoryAsTree(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:06,907 [HPPavilionDV7][Thread:58][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveDirectory(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:14,913 [HPPavilionDV7][Thread:11][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveRootDirectoryAsTree(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:15,009 [HPPavilionDV7][Thread:11][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveRootDirectoryAsTree(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:15,015 [HPPavilionDV7][Thread:11][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveDirectory(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:15,163 [HPPavilionDV7][Thread:61][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveRootDirectoryAsTree(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:15,169 [HPPavilionDV7][Thread:61][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0/ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveDirectory(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:28,872 [HPPavilionDV7][Thread:58][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0 ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveRootDirectoryAsTree(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 05:58:44,218 [HPPavilionDV7][Thread:58][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Providers.RadEditorProvider.FileManagerException: Unable to complete operation. An unknown error occurred. /Portals/0 ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.AddChildDirectoriesToList(DirectoryItem[]& radDirectories, Boolean recursive, Boolean loadFiles)
+   at DotNetNuke.Providers.RadEditorProvider.TelerikFileBrowserProvider.ResolveRootDirectoryAsTree(String path)
+   --- End of inner exception stack trace ---
+2013-11-12 06:04:29,546 [HPPavilionDV7][Thread:58][ERROR] DotNetNuke.Modules.DigitalAssets.Services.ContentServiceController - System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Modules.DigitalAssets.Components.Controllers.DigitalAssetsController.GetItemViewModel(FolderViewModel folder)
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.<UnionIterator>d__88`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DotNetNuke.Modules.DigitalAssets.Components.Controllers.DigitalAssetsController.GetFolderContent(Int32 folderId, Int32 startIndex, Int32 numItems, String sortExpression)
+   at DotNetNuke.Modules.DigitalAssets.Services.ContentServiceController.GetFolderContent(GetFolderContentRequest r)
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)
+2013-11-12 06:04:29,693 [HPPavilionDV7][Thread:58][ERROR] DotNetNuke.Modules.DigitalAssets.Services.ContentServiceController - System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Modules.DigitalAssets.Components.Controllers.DigitalAssetsController.GetItemViewModel(FolderViewModel folder)
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Linq.Enumerable.<UnionIterator>d__88`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at DotNetNuke.Modules.DigitalAssets.Components.Controllers.DigitalAssetsController.GetFolderContent(Int32 folderId, Int32 startIndex, Int32 numItems, String sortExpression)
+   at DotNetNuke.Modules.DigitalAssets.Services.ContentServiceController.GetFolderContent(GetFolderContentRequest r)
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)
+2013-11-12 06:04:44,506 [HPPavilionDV7][Thread:59][ERROR] DotNetNuke.Modules.DigitalAssets.Services.ContentServiceController - DotNetNuke.Web.UI.DotNetNukeException: The folder does not exist
+   at DotNetNuke.Modules.DigitalAssets.Components.Controllers.DigitalAssetsController.SyncFolderContent(Int32 folderId, Boolean recursive)
+   at DotNetNuke.Modules.DigitalAssets.Services.ContentServiceController.SynchronizeFolder(SynchronizeFolderRequest request)
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)
+2013-11-12 06:04:44,509 [HPPavilionDV7][Thread:59][ERROR] DotNetNuke.Modules.DigitalAssets.Services.ContentServiceController - DotNetNuke.Web.UI.DotNetNukeException: The folder does not exist
+   at DotNetNuke.Modules.DigitalAssets.Components.Controllers.DigitalAssetsController.SyncFolderContent(Int32 folderId, Boolean recursive)
+   at DotNetNuke.Modules.DigitalAssets.Services.ContentServiceController.SynchronizeFolder(SynchronizeFolderRequest request)
+   at lambda_method(Closure , Object , Object[] )
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass13.<GetExecutor>b__c(Object instance, Object[] methodParameters)
+   at System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   at System.Threading.Tasks.TaskHelpers.RunSynchronously[TResult](Func`1 func, CancellationToken cancellationToken)
+2013-11-12 06:12:21,231 [HPPavilionDV7][Thread:33][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,246 [HPPavilionDV7][Thread:33][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,254 [HPPavilionDV7][Thread:38][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,256 [HPPavilionDV7][Thread:28][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,256 [HPPavilionDV7][Thread:32][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,260 [HPPavilionDV7][Thread:27][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,264 [HPPavilionDV7][Thread:33][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,270 [HPPavilionDV7][Thread:25][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,273 [HPPavilionDV7][Thread:28][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,278 [HPPavilionDV7][Thread:7][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,282 [HPPavilionDV7][Thread:27][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,287 [HPPavilionDV7][Thread:33][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,292 [HPPavilionDV7][Thread:25][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,298 [HPPavilionDV7][Thread:38][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,303 [HPPavilionDV7][Thread:32][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,308 [HPPavilionDV7][Thread:28][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,322 [HPPavilionDV7][Thread:32][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,326 [HPPavilionDV7][Thread:25][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,326 [HPPavilionDV7][Thread:27][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,337 [HPPavilionDV7][Thread:28][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,338 [HPPavilionDV7][Thread:38][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,341 [HPPavilionDV7][Thread:7][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,346 [HPPavilionDV7][Thread:33][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,351 [HPPavilionDV7][Thread:25][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,355 [HPPavilionDV7][Thread:32][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 06:12:21,361 [HPPavilionDV7][Thread:27][FATAL] DotNetNuke.Web.Common.Internal.DotNetNukeHttpApplication - System.Web.HttpException (0x80004005): This is an invalid webresource request.
+   at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
