@@ -228,23 +228,24 @@ html, body {
 
 /* BUTTON */
 
-/* a, a:link, a:visited 
-a:hover, a:active, a:focus */
-
 .btn-green {
   color: #ffffff;
   background-color: #1F8B4D;
   border-color: #1C7D45;
 }
-a.btn-green:link, a.btn-green:visited,
-.btn-green:hover, a.btn-green:hover,  
-.btn-green:focus, a.btn-green:focus,
-.btn-green:active, a.btn-green:active,
-.btn-green.active, a.btn-green.active,
+
+.btn-green:hover, 
+.btn-green:focus, 
+.btn-green:active, 
+.btn-green.active, 
 .open .dropdown-toggle.btn-green {
   color: #ffffff;
   background-color: #239D56;
   border-color: #239D56;
+}
+a.btn-green:link, a.btn-green:visited
+{
+    color: #ffffff;
 }
 
 .btn-green:active,

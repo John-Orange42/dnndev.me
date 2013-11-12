@@ -7,8 +7,15 @@
 <%@ Register TagPrefix="dnn" TagName="LOGO" Src="~/Admin/Skins/Logo.ascx" %>
 
 <dnn:META runat="server" Name="viewport" Content="width=device-width,initial-scale=1" />
-<dnn:DnnCssInclude ID="DnnCssInclude1" runat="server" FilePath="css/bootstrap.css" PathNameAlias="SkinPath" Priority="7" />
-<dnn:DnnJsInclude ID="DnnJsInclude1" runat="server" FilePath="js/bootstrap.js" PathNameAlias="SkinPath" ForceProvider="DnnFormBottomProvider" />
+<dnn:DnnCssInclude ID="DnnCssIncludeBootStrap" runat="server" FilePath="css/bootstrap.css" PathNameAlias="SkinPath" Priority="7" />
+<dnn:DnnCssInclude ID="DnnCssIncludeGoogleFontLato" runat="server" FilePath="http://fonts.googleapis.com/css?family=Lato:300,400,700'" Priority="8" />
+<dnn:DnnJsInclude ID="DnnJsIncludeBootStrap" runat="server" FilePath="js/bootstrap.js" PathNameAlias="SkinPath" ForceProvider="DnnFormBottomProvider" />
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+    <script src="/Portals/_default/Skins/BootstrapBasics/js/html5shiv.js"></script>
+    <script src="/Portals/_default/Skins/BootstrapBasics/js/respond.min.js"></script>
+<![endif]-->
 
 <div id="wrap">
 
