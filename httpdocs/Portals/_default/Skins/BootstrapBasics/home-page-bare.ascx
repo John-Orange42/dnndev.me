@@ -12,13 +12,17 @@
 
 <div id="wrap">
 
+    <% If Request.IsAuthenticated Then%>
+    <% ' HACK - user-navbar: simply show if user is authenticated %>
+    <% ' determine is someone has logged into the site %>
+    <% ' TODO - user-navbar: create dynamic show/hide and menu options logic, likely to include user roles %>
+
     <div class="user-navbar navbar-default logged-in" role="navigation">
         <div class="container">
-
             <div class="userbar-header">
                 <div class="login-id">
-                    Logged in as <% ' TODO - dnn:USER tag:  Check to see if adding CssClass=" " removes the default class "SkinObject" - or at least find out what SkinObject is - maybe override it  %>
-                        <dnn:USER ID="dnnUser" runat="server" LegacyMode="true" CssClass=" " />
+                    Logged in as <% ' TODO - dnn:USER tag:  Added CssClass=" " to remove the default class "SkinObject" %>
+                    <dnn:USER ID="dnnUser" runat="server" LegacyMode="true" CssClass=" " />
                 </div>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".userbar">
                     <span class="sr-only">Toggle navigation</span>
@@ -27,14 +31,14 @@
                     <span class="icon-bar"></span>
                 </button>
             </div>
-
             <div class="collapse navbar-collapse userbar navbar-right">
                 <dnn:MENU ID="privateMenu" runat="server" MenuStyle="UserBootstrapMenu" NodeSelector="Secure Home Page, 0"></dnn:MENU>
             </div>
-
         </div>
-
     </div>
+
+    <% End If %>
+    <% ' /.show-hide userbar-header  %>
 
     <div class="navbar navbar-default navbar-static-top">
         <div class="container">
@@ -44,8 +48,7 @@
                 <div class="pull-right">
                     <p class="navbar-text pull-right">Tel: 501-228-0900</p>
                     <dnn:LOGIN ID="BS3Login" runat="server" LegacyMode="true" CssClass="btn btn-green navbar-btn pull-right" />
-                    <div class="divider pull-right">
-                    </div>
+                    <div class="divider pull-right"></div>
                 </div>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".main-navbar">
                     <span class="icon-bar"></span>
@@ -53,13 +56,11 @@
                     <span class="icon-bar"></span>
                 </button>
             </div>
-
+            <% ' TODO - Style menu to match ARM HTML site %>
             <div class="navbar-collapse main-navbar collapse">
                 <dnn:MENU ID="MENU1" MenuStyle="BootstrapMenu" runat="server" NodeSelector="Home,0"></dnn:MENU>
             </div>
-
         </div>
-
     </div>
 
     <a id="hiring_tab" style="overflow-x: hidden" href="#">We are Hiring!</a>
