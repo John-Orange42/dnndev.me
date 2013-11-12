@@ -1,11 +1,29 @@
 /* added to correct DNN Admin Menu */
 #ControlBar, #ControlBar *, .actionMenu * { -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; }
 
+/* added to override DNN's a:visited color setting (color copied from bootstrap.css) */
+/* to keep from creating problems with BS's button text/hover/etc. see the * Button * section below */
+/* https://github.com/twbs/bootstrap/issues/1302 */
+a, a:link, a:visited {
+  color: #1F8B4D;
+}
+/* because :hover and :focus must come after :link and :visited, (and they have already been set in the "higher ranked" .css files, repeat them here as well */
+/* http://freeyourdesign.com/css/css-tip-using-link-anchor-pseudo-classes/ */
+a:hover, a:active, a:focus {
+  color: #1F8B4D;
+  text-decoration: underline;
+}
+
+a:focus {
+  outline: thin dotted #333;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
 html, body {
   font-family: 'Lato', sans-serif;
   height: 100%;
 }
-
 
 /*NAVBAR */
 
@@ -210,16 +228,19 @@ html, body {
 
 /* BUTTON */
 
+/* a, a:link, a:visited 
+a:hover, a:active, a:focus */
+
 .btn-green {
   color: #ffffff;
   background-color: #1F8B4D;
   border-color: #1C7D45;
 }
-
-.btn-green:hover,
-.btn-green:focus,
-.btn-green:active,
-.btn-green.active,
+a.btn-green:link, a.btn-green:visited,
+.btn-green:hover, a.btn-green:hover,  
+.btn-green:focus, a.btn-green:focus,
+.btn-green:active, a.btn-green:active,
+.btn-green.active, a.btn-green.active,
 .open .dropdown-toggle.btn-green {
   color: #ffffff;
   background-color: #239D56;

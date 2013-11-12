@@ -17,8 +17,8 @@
 
             <div class="userbar-header">
                 <div class="login-id">
-                    Logged in as
-                        <dnn:USER ID="dnnUser" runat="server" LegacyMode="true" />
+                    Logged in as <% ' TODO - dnn:USER tag:  Check to see if adding CssClass=" " removes the default class "SkinObject" - or at least find out what SkinObject is - maybe override it  %>
+                        <dnn:USER ID="dnnUser" runat="server" LegacyMode="true" CssClass=" " />
                 </div>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".userbar">
                     <span class="sr-only">Toggle navigation</span>
@@ -29,7 +29,7 @@
             </div>
 
             <div class="collapse navbar-collapse userbar navbar-right">
-                <dnn:MENU ID="privateMenu" runat="server" MenuStyle="BootstrapMenu" NodeSelector="Secure Home Page, 0"></dnn:MENU>
+                <dnn:MENU ID="privateMenu" runat="server" MenuStyle="UserBootstrapMenu" NodeSelector="Secure Home Page, 0"></dnn:MENU>
             </div>
 
         </div>
@@ -43,11 +43,7 @@
                     <img class="img-responsive" src="/Portals/0/img/ARM-small.fw.png" alt="Affirmative Risk Management"></a>
                 <div class="pull-right">
                     <p class="navbar-text pull-right">Tel: 501-228-0900</p>
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <dnn:LOGIN ID="BS3Login" runat="server" LegacyMode="true" />
-                        </li>
-                    </ul>
+                    <dnn:LOGIN ID="BS3Login" runat="server" LegacyMode="true" CssClass="btn btn-green navbar-btn pull-right" />
                     <div class="divider pull-right">
                     </div>
                 </div>
