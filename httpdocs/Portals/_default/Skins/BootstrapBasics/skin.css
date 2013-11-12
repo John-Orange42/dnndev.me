@@ -1,7 +1,17 @@
-/* added to correct DNN Admin Menu */
+/* add to correct DNN Admin Menu */
 #ControlBar, #ControlBar *, .actionMenu * { -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; }
 
-/* added to override DNN's a:visited color setting (color copied from bootstrap.css) */
+/* Add to correct DNN's _default CSS for font properties getting set through non-obvious means*/
+/* copying code from bootstrap.css */
+#wrap p
+{
+  color: #333333;
+  line-height: 1.4285;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+}
+
+/* add to override DNN's a:visited color setting (color copied from bootstrap.css) */
 /* to keep from creating problems with BS's button text/hover/etc. see the * Button * section below */
 /* https://github.com/twbs/bootstrap/issues/1302 */
 a, a:link, a:visited {

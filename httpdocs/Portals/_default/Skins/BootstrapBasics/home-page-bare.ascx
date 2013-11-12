@@ -13,8 +13,8 @@
 
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
-    <script src="/Portals/_default/Skins/BootstrapBasics/js/html5shiv.js"></script>
-    <script src="/Portals/_default/Skins/BootstrapBasics/js/respond.min.js"></script>
+    <script src="/Portals/_default/Skins/BootstrapBasics/assets/js/html5shiv.js"></script>
+    <script src="/Portals/_default/Skins/BootstrapBasics/assets/js/respond.min.js"></script>
 <![endif]-->
 
 <div id="wrap">
@@ -44,7 +44,7 @@
         </div>
     </div>
 
-    <% End If %>
+    <% End If%>
     <% ' /.show-hide userbar-header  %>
 
     <div class="navbar navbar-default navbar-static-top">
@@ -65,7 +65,7 @@
             </div>
             <% ' TODO - Style menu to match ARM HTML site %>
             <div class="navbar-collapse main-navbar collapse">
-                <dnn:MENU ID="topMenu" MenuStyle="BootstrapMenu" runat="server" NodeSelector="*,0"></dnn:MENU>
+                <dnn:MENU ID="topMenu" MenuStyle="BootstrapMenu" runat="server" NodeSelector="*,0" ExcludeNodes="Client Private Menu"></dnn:MENU>
             </div>
         </div>
     </div>
@@ -129,3 +129,19 @@
         </div>
     </div>
 </div>
+<!-- Responsive Slides -->
+<script src="/Portals/_default/Skins/BootstrapBasics/assets/js/responsiveslides.min.js"></script>
+<script>
+    // You can also use "$(window).load(function() {"
+    $(function () {
+
+        // Slideshow 1
+        $("#slider").responsiveSlides({
+            maxwidth: 800,
+            speed: 800,
+            pager: true,
+            namespace: "centered-btns"
+        });
+
+    });
+</script>
