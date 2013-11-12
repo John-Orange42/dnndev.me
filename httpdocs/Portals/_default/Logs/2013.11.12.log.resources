@@ -292,3 +292,24 @@
    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
    at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
    at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2013-11-12 09:47:11,889 [HPPavilionDV7][Thread:6][ERROR] DotNetNuke.Services.Exceptions.Exceptions - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_menu_ascx" exc="System.ApplicationException: Couldn't load menu style 'BootstrapMenuFooter': System.ApplicationException: Can't find processor for manifest C:\websites\dnndev.me\httpdocs\Portals\_default\Skins\BootstrapBasics\BootstrapMenuFooter\menudef.xml
+   at DotNetNuke.Web.DDRMenu.TemplateEngine.TemplateDefinition.FromManifest(String manifestUrl)
+   at DotNetNuke.Web.DDRMenu.MenuBase.Instantiate(String menuStyle)
+   at DotNetNuke.Web.DDRMenu.MenuBase.Instantiate(String menuStyle)
+   at DotNetNuke.Web.DDRMenu.SkinObject.OnPreRender(EventArgs e)"
+2013-11-12 09:47:12,248 [HPPavilionDV7][Thread:6][ERROR] DotNetNuke.Services.Exceptions.Exceptions - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_menu_ascx" exc="System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Web.DDRMenu.SkinObject.Render(HtmlTextWriter writer)"
+2013-11-12 09:47:55,192 [HPPavilionDV7][Thread:10][ERROR] DotNetNuke.Services.Exceptions.Exceptions - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_menu_ascx" exc="System.ApplicationException: Couldn't load menu style 'BootstrapMenuFooter': System.ApplicationException: Can't find processor for manifest C:\websites\dnndev.me\httpdocs\Portals\_default\Skins\BootstrapBasics\BootstrapMenuFooter\menudef.xml
+   at DotNetNuke.Web.DDRMenu.TemplateEngine.TemplateDefinition.FromManifest(String manifestUrl)
+   at DotNetNuke.Web.DDRMenu.MenuBase.Instantiate(String menuStyle)
+   at DotNetNuke.Web.DDRMenu.MenuBase.Instantiate(String menuStyle)
+   at DotNetNuke.Web.DDRMenu.SkinObject.OnPreRender(EventArgs e)"
+2013-11-12 09:47:55,264 [HPPavilionDV7][Thread:10][ERROR] DotNetNuke.Services.Exceptions.Exceptions - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_menu_ascx" exc="System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Web.DDRMenu.SkinObject.Render(HtmlTextWriter writer)"
+2013-11-12 10:10:18,497 [HPPavilionDV7][Thread:6][ERROR] DotNetNuke.Services.Exceptions.Exceptions - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_menu_ascx" exc="System.ApplicationException: Couldn't load menu style 'BootstrapMenuFooter': System.ApplicationException: Can't find processor for manifest C:\websites\dnndev.me\httpdocs\Portals\_default\Skins\BootstrapBasics\BootstrapMenuFooter\menudef.xml
+   at DotNetNuke.Web.DDRMenu.TemplateEngine.TemplateDefinition.FromManifest(String manifestUrl)
+   at DotNetNuke.Web.DDRMenu.MenuBase.Instantiate(String menuStyle)
+   at DotNetNuke.Web.DDRMenu.MenuBase.Instantiate(String menuStyle)
+   at DotNetNuke.Web.DDRMenu.SkinObject.OnPreRender(EventArgs e)"
+2013-11-12 10:10:18,881 [HPPavilionDV7][Thread:6][ERROR] DotNetNuke.Services.Exceptions.Exceptions - FriendlyMessage="An error has occurred." ctrl="ASP.desktopmodules_ddrmenu_menu_ascx" exc="System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Web.DDRMenu.SkinObject.Render(HtmlTextWriter writer)"

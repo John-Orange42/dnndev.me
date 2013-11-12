@@ -793,6 +793,16 @@ navigation {
   margin-top:20px;
 }
 
+UL.footer-link LI {
+	display: inline;
+	list-style-type: none;
+}
+UL.footer-link {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
 address {
   text-align:left;
   float:right;

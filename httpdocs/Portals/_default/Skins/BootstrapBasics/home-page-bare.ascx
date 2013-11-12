@@ -63,7 +63,7 @@
                     <span class="icon-bar"></span>
                 </button>
             </div>
-            <% ' TODO - Style menu to match ARM HTML site %>
+            <% ' TODO - Check if Style of menu matches ARM HTML site %>
             <div class="navbar-collapse main-navbar collapse">
                 <dnn:MENU ID="topMenu" MenuStyle="BootstrapMenu" runat="server" NodeSelector="*,0" ExcludeNodes="Client Private Menu"></dnn:MENU>
             </div>
@@ -104,7 +104,19 @@
 
     <div class="container">
         <div class="row">
-            <div id="footerNav" runat="server" class="col-sm-12 col-md-6">
+            <div id="footerNav" class="col-sm-12 col-md-6">
+                <div class="pull-left">
+                    <%-- <dnn:MENU ID="MENU1" MenuStyle="BootstrapMenuFooter" runat="server" NodeSelector="*,0,0" ExcludeNodes="Client Private Menu"></dnn:MENU> --%>
+                    <% 'HACK: Get footer menu working using XSLT %>
+                    <p class="footer-links">
+                        <a href="http://dnndev.me/" class="">Home</a> &middot; 
+                        <a href="http://dnndev.me/Services">Services</a> &middot; 
+                        <a href="http://dnndev.me/People/Our-Team">People</a> &middot; 
+                        <a href="http://dnndev.me/News" class="">News</a> &middot; 
+                        <a href="http://dnndev.me/Salvage" class="">Salvage</a> &middot; 
+                        <a href="http://dnndev.me/Contact" class="">Contact</a>
+                    </p>
+                </div>
             </div>
 
             <div id="footerAddress" runat="server" class="col-xs-6 col-md-3">

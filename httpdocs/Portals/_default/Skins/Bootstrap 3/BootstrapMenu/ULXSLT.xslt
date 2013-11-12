@@ -5,7 +5,7 @@
     <xsl:apply-templates select="root" />
   </xsl:template>
   <xsl:template match="root">
-    <ul class="nav navbar-nav">
+    <ul class="nav navbar-nav navbar-right">
       <xsl:apply-templates select="node">
         <xsl:with-param name="level" select="0"/>
       </xsl:apply-templates>
